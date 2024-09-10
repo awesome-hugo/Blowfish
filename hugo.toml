@@ -1,0 +1,4 @@
+baseURL = 'https://awesome-hugo.github.io/Blowfish/'
+languageCode = 'en-us'
+title = 'Blowfish'
+theme = 'blowfish'
