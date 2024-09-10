@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blowfish</title><link>https://awesome-hugo.github.io/Blowfish/posts/</link><description>Recent content in Posts on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2024</copyright><lastBuildDate>Tue, 10 Sep 2024 10:58:38 +0700</lastBuildDate><atom:link href="https://awesome-hugo.github.io/Blowfish/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://awesome-hugo.github.io/Blowfish/posts/my-first-post/</link><pubDate>Tue, 10 Sep 2024 10:58:38 +0700</pubDate><guid>https://awesome-hugo.github.io/Blowfish/posts/my-first-post/</guid><description>&lt;h1 class="relative group">Welcome!
+&lt;div id="welcome" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#welcome" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This is my very first post. All of this is written using Markdown.&lt;/p></description></item></channel></rss>
